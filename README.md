@@ -40,12 +40,5 @@ The point was to learn web development from the ground up, so there are no frame
 | JavaScript | small interactive touches (e.g. context-menu guard) |
 | GitHub Pages | static hosting and deployment |
 
-## Run it locally
-
-1. **Clone or download** this repository.
-2. **Open `index.html`** in any browser — no server or dependencies needed.
-
-Or just visit the live site: [jlumi382.github.io/ge10-journal](https://jlumi382.github.io/ge10-journal/).
-
 ---
 *© 2024 Miguel Luis Jumawan · [MIT licensed](LICENSE)*
